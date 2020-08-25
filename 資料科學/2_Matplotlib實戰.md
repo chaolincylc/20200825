@@ -75,6 +75,10 @@ https://zh.wikipedia.org/wiki/Matplotlib
 https://blog.techbridge.cc/2018/05/11/python-data-science-and-machine-learning-matplotlib-tutorial/
 https://www.runoob.com/numpy/numpy-matplotlib.html
 ```
+```
+https://matplotlib.org/3.3.1/api/_as_gen/matplotlib.pyplot.plot.html
+```
+
 # [5]MATPLOTLIB範例學習[1]單一圖形
 ## matplotlib.pyplot
 ```
