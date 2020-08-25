@@ -456,7 +456,7 @@ result
 [1]numpy 中的 broadcasting（廣播）機制
    https://codertw.com/程式語言/462108/
 [2]NumPy 廣播(Broadcast)
-   https://www.runoob.com/numpy/numpy-broadcast.html[2]
+   https://www.runoob.com/numpy/numpy-broadcast.html
 ```
 ```
 import numpy as np
