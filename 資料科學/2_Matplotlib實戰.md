@@ -2,7 +2,7 @@
 ```
 [1].Data Visualization資料視覺化
 [2].資料視覺化の套件
-[3].Google Colab上的範利
+[3].Google Colab上的範例
 
 [4].MATPLOTLIB
 [5].MATPLOTLIB範例學習[1]單一圖形
